@@ -35,17 +35,6 @@ This is the "Microsoft Team clone". A free WebRTC browser-based video call, chat
 - `Allow` to use the camera and microphone
 - `Share` the Room URL and `Wait` someone to join for video conference
 
-
-
-## Setup Turn
-
-Not mandatory but `recommended`.
-
-- Create an account on http://numb.viagenie.ca
-- Get your Account USERNAME and PASSWORD
-- Fill in your credentials
-
-
 ## Install dependencies
 
 ```js
