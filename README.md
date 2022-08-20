@@ -1,20 +1,14 @@
 <h1 id="top" align="center"> Microsoft Team Clone</h1>
 
-This is the "Microsoft Team clone" project under the program **Microsoft Engage 2021**. A free WebRTC browser-based video call, chat and screen sharing web app.
+This is the "Microsoft Team clone". A free WebRTC browser-based video call, chat and screen sharing web app.
 
 <br>
 
 
-Introduction
-------------
-
-The aim of this project is to build  fully functional prototype with at least one mandatory functionality - a minimum of two participants should be able connect with each other using your product to have a video conversation.
-
-## https://engage2021aditya.herokuapp.com/
 
 <br>
 
-[![aditya](source/public/img/heroku.png)](https://engage2021aditya.herokuapp.com/)
+
 
 ## Features
 
@@ -36,20 +30,12 @@ The aim of this project is to build  fully functional prototype with at least on
 
 ## Demo
 
-- `Open`https://engage2021aditya.herokuapp.com/ 
+- 
 - `Pick` your personal Room name and `Join To Room`
 - `Allow` to use the camera and microphone
 - `Share` the Room URL and `Wait` someone to join for video conference
 
 
-## Quick start
-
-- You will need to have [Node.js](https://nodejs.org/en/) installed
-- Clone this repo
-
-```bash
-git clone https://github.com/aditya20233/microsoft-engage-2021-project.git
-```
 
 ## Setup Turn
 
@@ -74,8 +60,6 @@ npm start
 
 - Open http://localhost:3000 in browser
 
-
-## To know more about the projects [click here](https://drive.google.com/file/d/1GxYL9gVBck6uYGer2LmrqhdJZSkbQ0zq/view?usp=sharing)
 
 ## References
 - https://webrtc.org/getting-started/overview
